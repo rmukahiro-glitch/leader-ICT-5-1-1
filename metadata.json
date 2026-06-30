@@ -1,0 +1,6 @@
+{
+  "name": "Работа с текстом",
+  "description": "Интерактивный урок и тренажёр по работе с текстовыми документами, мышью и клавиатурой",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
